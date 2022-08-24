@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @er1kka
-- 👀 I’m interested in pretty much anything that is programable. I like when code so 
-- 🌱 I’m currently learning kubernetes but
+- 👀 I’m interested in pretty much anything that is programable. I like when code is readable and to the point.
+- 🌱 I’m currently learning kubernetes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
